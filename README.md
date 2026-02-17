@@ -2,6 +2,7 @@
 A main page and showcase of all my data projects
 
 <br>
+---
 <br>
 
 ### Data Projects

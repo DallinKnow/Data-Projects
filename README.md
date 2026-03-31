@@ -21,6 +21,7 @@ A project focused on turning paying casual riders into full paying members.
 * [📽️ Slide Deck ( Presenation )](https://docs.google.com/presentation/d/1v6CHQHnUB2xtbrTNRZwGjsGoqJIieYd1WQ1abbMZ-wI/edit?usp=sharing)
 * [📓 Python Jupiter Notbook]()
 <br>
+
 ### Visuals
 <br>
 

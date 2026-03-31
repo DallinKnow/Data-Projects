@@ -15,7 +15,19 @@ A main page and showcase of all my data projects
 
 ---
 
-## Cyclistic
+## 🚲 Cyclistic
+A project focused on turning paying casual riders into full paying members.
+<br>
+ [Slide Deck ( Presenation )](https://docs.google.com/presentation/d/1v6CHQHnUB2xtbrTNRZwGjsGoqJIieYd1WQ1abbMZ-wI/edit?usp=sharing)
+<br>
+### Visuals
+<br>
+
+#### Python 🐍
+
+<br>
+
+#### Power BI
 
 
 

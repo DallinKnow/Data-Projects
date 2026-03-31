@@ -26,7 +26,7 @@ A project focused on turning paying casual riders into full paying members.
 <br>
 
 #### Python 🐍
-Ride Average
+<u>Ride Average</u>
 <img width="2983" height="1782" alt="cyclistic_dashboard_1" src="https://github.com/user-attachments/assets/ae0d1a58-6508-471c-be6a-9ba3fd52361a" />
 <br>
 Ride Count

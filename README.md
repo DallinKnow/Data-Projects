@@ -22,10 +22,10 @@ A project focused on turning paying casual riders into full paying members.
 * [📓 Python Jupiter Notbook]()
 <br>
 
-### Visuals
+### Visuals:
 <br>
 
-#### Python 🐍
+### Python 🐍
 
 <u>Ride Duration Average</u>
 
@@ -49,13 +49,17 @@ Seasonal Count and Average Duration
 
 <br>
 
-Ride Count Comparison
-<img width="2050" height="1094" alt="image" src="https://github.com/user-attachments/assets/bd6ec9d6-cc96-45fa-8872-1431f8c84308" />
+Ride Count Comparison 
+
+<img width="1925" height="1076" alt="image" src="https://github.com/user-attachments/assets/e1607679-995e-4930-8053-10f90d47f3b5" />
+
 
 <br>
 <br>
 
 Average Ride Duration Comparison
-<img width="2035" height="1089" alt="image" src="https://github.com/user-attachments/assets/830be039-1d91-4945-b330-d65148e9db54" />
+
+<img width="1918" height="1089" alt="image" src="https://github.com/user-attachments/assets/86f732b0-26bc-4f2c-ab74-d1ff4b57bf11" />
+
 
 

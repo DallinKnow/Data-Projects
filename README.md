@@ -45,17 +45,17 @@ Seasonal Count and Average Duration
 
 <br>
 
-#### Power BI 📊
+### Power BI 📊
 
 <br>
 
-### Ride Count Comparison
+Ride Count Comparison
 <img width="2050" height="1094" alt="image" src="https://github.com/user-attachments/assets/bd6ec9d6-cc96-45fa-8872-1431f8c84308" />
 
 <br>
 <br>
 
-### Average Ride Duration Comparison
+Average Ride Duration Comparison
 <img width="2035" height="1089" alt="image" src="https://github.com/user-attachments/assets/830be039-1d91-4945-b330-d65148e9db54" />
 
 

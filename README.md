@@ -17,7 +17,7 @@ A main page and showcase of all my data projects
 ## 🚲 Cyclistic
 A project focused on turning paying casual riders into full paying members.
 <br>
-* [📽️ Slide Deck ( Presenation )](https://docs.google.com/presentation/d/1v6CHQHnUB2xtbrTNRZwGjsGoqJIieYd1WQ1abbMZ-wI/edit?usp=sharing)
+* [📽️ Slide Deck ( Presentation )](https://docs.google.com/presentation/d/1v6CHQHnUB2xtbrTNRZwGjsGoqJIieYd1WQ1abbMZ-wI/edit?usp=sharing)
 * [📓 Python Jupiter Notbook](https://github.com/DallinKnow/Data-Projects/blob/main/python_cyclistic_data_project.ipynb)
 * [🟩 Google Sheet ( One Month of Data )](https://docs.google.com/spreadsheets/d/1dxbqZMrVBJT55H9pjrVh-L1SDW77RRZgI2gmVlOtjj8/edit?usp=sharing)
 <br>
@@ -70,7 +70,7 @@ Coming soon.
 A project focused on increasing usage of bellabeat fitness tech by studying fitbit tech and how people use it.
 <br>
 
-* [📽️ Slide Deck ( Presenation )]()
+* [📽️ Slide Deck ( Presentation )]()
 * [📓 Python Jupiter Notbook ( End to End )]()
 
 <br>

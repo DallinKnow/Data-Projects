@@ -7,7 +7,7 @@ A main page and showcase of all my data projects
 
 ### Data Projects
 1. [🚲 Cyclistic Project](#-cyclistic)
-2. [❤️🏃‍♀️ Bellabeat Project ( Comming Soon )](#-bellabeat)
+2. [❤️🏃‍♀️ Bellabeat Project ( Comming Soon )](#bellabeat)
 3. [🐍 Python Project](https://github.com/DallinKnow/Data-Projects/blob/main/python_cyclistic_data_project.ipynb)
 
 <br>
@@ -56,15 +56,21 @@ Ride Count Comparison
 
 <br>
 
+Average Count Comparisson
+
+<img width="1918" height="1089" alt="image" src="https://github.com/user-attachments/assets/86f732b0-26bc-4f2c-ab74-d1ff4b57bf11" />
+
 ---
 
 ## ❤️🏋️‍♀️ Bellabeat
+
 Coming soon.
 A project focused on increading usage of bellabeat fitness tech by studying fitbit tech and how people use it.
 <br>
+
 * [📽️ Slide Deck ( Presenation )]()
 * [📓 Python Jupiter Notbook ( End to End )]()
-* 
+
 <br>
 
 ### Visuals:
@@ -79,4 +85,3 @@ Empty
 
 Empty
 
-<img width="1918" height="1089" alt="image" src="https://github.com/user-attachments/assets/86f732b0-26bc-4f2c-ab74-d1ff4b57bf11" />

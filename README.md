@@ -101,9 +101,6 @@ Ride Count Comparison
 <br>
 <br>
 
-Average Ride Duration Comparison
-
-<img width="1918" height="1089" alt="image" src="https://github.com/user-attachments/asse
 
 Average Ride Duration Comparison
 

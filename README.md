@@ -7,7 +7,7 @@ A main page and showcase of all my data projects
 
 ### Data Projects
 1. [🚲 Cyclistic Project](#-cyclistic)
-2. [ ❤️🏃‍♀️ Bellabeat Project ( Comming Soon )](#-❤️🏋️‍♀️-Bellabeat)
+2. [ ❤️🏃‍♀️ Bellabeat Project ( Comming Soon )](#❤️🏋️‍♀️-Bellabeat)
 3. [🐍 Python Project](https://github.com/DallinKnow/Data-Projects/blob/main/python_cyclistic_data_project.ipynb)
 
 <br>

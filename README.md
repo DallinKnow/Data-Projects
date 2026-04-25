@@ -20,6 +20,7 @@ A project focused on turning paying casual riders into full paying members.
 * [📽️ Slide Deck ( Presentation )](https://docs.google.com/presentation/d/1v6CHQHnUB2xtbrTNRZwGjsGoqJIieYd1WQ1abbMZ-wI/edit?usp=sharing)
 * [📓 Python Jupiter Notbook](https://github.com/DallinKnow/Data-Projects/blob/main/python_cyclistic_data_project.ipynb)
 * [🟩 Google Sheet ( One Month of Data )](https://docs.google.com/spreadsheets/d/1dxbqZMrVBJT55H9pjrVh-L1SDW77RRZgI2gmVlOtjj8/edit?usp=sharing)
+* [🖥️ SQL ( Cleaning and Data Prep )](https://github.com/DallinKnow/Data-Projects/blob/main/sql_cyclistic.md)
 <br>
 
 ### Visuals:

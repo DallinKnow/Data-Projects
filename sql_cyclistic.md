@@ -5,8 +5,6 @@ A case study using SQL from start to finish.
 
 ### Other Projects
 1. [Data Projects](https://github.com/DallinKnow/Data-Projects)
-2. [🐍 Python Project](https://github.com/DallinKnow/Data-Projects/blob/main/python_cyclistic_data_project.ipynb)
-3. [🟩 Excel Project](https://docs.google.com/spreadsheets/d/1dxbqZMrVBJT55H9pjrVh-L1SDW77RRZgI2gmVlOtjj8/edit?usp=sharing)
 
 <br>
 

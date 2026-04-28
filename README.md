@@ -71,7 +71,7 @@ A project focused on increasing usage of bellabeat fitness tech by studying fitb
 <br>
 
 * [📽️ Slide Deck ( Presentation )]()
-* [📓 Python Jupiter Notbook ( End to End )]()
+* [📓 Python Jupiter Notbook ( End to End )](https://github.com/DallinKnow/Data-Projects/blob/main/bellabeat_notebook.ipynb)
 
 <br>
 

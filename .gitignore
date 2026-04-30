@@ -1,0 +1,4 @@
+venv/.ipynbcheckpoints/__pycache__/
+*.pyc
+data/
+*.zip

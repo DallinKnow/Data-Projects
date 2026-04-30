@@ -1,0 +1,156 @@
+# SQL-Project
+A case study using SQL from start to finish.  
+
+---
+
+### Other Projects
+1. [Data Projects](https://github.com/DallinKnow/Data-Projects)
+
+<br>
+
+# 🚲 Cyclistic Case Study
+(A case study on a fictional bike rental company named Cyclistic.)
+
+### ❓ Business Question:
+How do annual members and casual riders use Cyclistic bikes differently?
+How can we turn casual riders into annualy paying mambers?
+
+<br>
+
+## 🧹 Start/Cleaning
+First, aftrer importing the tables for 2025 trips, I started with merging the files.
+
+### Initial Data Audit 
+I used this query to find any null values that I didn't want to keep
+<img width="1224" height="932" alt="image" src="https://github.com/user-attachments/assets/c3edd218-e56b-42ed-bdd8-5c5181f9d423" />
+<br>
+
+#### Query result ⤵️
+Note: The columns with no Null values were colapsed more to fit the photo
+<img width="1950" height="529" alt="image" src="https://github.com/user-attachments/assets/297d961c-ee21-499b-9d53-36244f8410ab" />
+<br>
+<br>
+
+#### I then found that there were false starts that didn't have an end lat or lng but did hav a start lng and lat.
+
+<br>
+
+#### Instead of Deleting the nulls this first time.  I created a new proxy duplicate, avoiding adding nulls from end_lat and lng.
+I did this for simplicity, to keep all data in one place and make a place where I can delete values without deleting source raw data.
+
+<br>
+
+<img width="930" height="211" alt="image" src="https://github.com/user-attachments/assets/7b19bbb2-edeb-4f52-8cf7-512e8906e3b4" />
+
+<br>
+
+### Checked nulls again
+<img width="889" height="433" alt="image" src="https://github.com/user-attachments/assets/29bc2ba2-f903-4272-83aa-f697e676d4d4" />
+
+<br>
+
+#### Query result ⤵️
+<img width="1667" height="82" alt="image" src="https://github.com/user-attachments/assets/f86997a2-bc32-4e14-9f0e-66bfa7debe51" />
+
+<br>
+
+### ❌ Null values ❌ found in start and end station ID and Names.  
+Could be bikes that start and end just not at stations. Could start at a station and end outside of one, but rides are still not false starts.
+
+<br>
+<br>
+
+### Created a view 🔭 with new columns ✔️
+
+<img width="1224" height="932" alt="image" src="https://github.com/user-attachments/assets/c3801b7c-b04a-4034-90e6-fc58ab6cd216" />
+<br>
+<img width="685" height="125" alt="image" src="https://github.com/user-attachments/assets/33666727-7f02-400f-aa81-98136ba5652f" />
+
+
+<br>
+
+#### Query result ⤵️
+<img width="2425" height="775" alt="image" src="https://github.com/user-attachments/assets/d7b957f3-a772-4272-8dcc-792232014f5c" />
+
+<br>
+
+### ❓ Why the columns? Why the "Where" statement?
+I decided to make a view for ease of use.
+I wanted to make the columns for the diferent times and durations to realy find patterns between members and casual riders use of cyclistic bikes.
+I wanted to filter out any outlire bike rides.  Bike rides are typically not more than 24 hours without accidental time imput or a stollen/lost bike.
+Also negative times are a sign of false starts or bad time imputs and will skew the data.
+
+
+<br>
+
+### 🛠 Formatting Fix
+Checked for inconsistant spacing and created new view with trimmed spacing, consistent format, and got rid of any duplicates.
+<img width="897" height="196" alt="image" src="https://github.com/user-attachments/assets/c3ca9815-eeef-43cc-8cf2-ea5a4a6daa6e" />
+
+<br>
+
+#### Query result ⤵️
+<img width="849" height="82" alt="image" src="https://github.com/user-attachments/assets/15f19e60-3d1f-491b-b6d5-a42d66af91c8" />
+
+<br>
+<br>
+
+### 🫧 🧼 Final Clean Table 🫧
+I made the station names look professional with capitals to start each word in the name alond with trimming all needed stations.
+<img width="1009" height="591" alt="image" src="https://github.com/user-attachments/assets/0d6b63d2-129d-4979-a949-2511ddc8922e" />
+
+<br>
+
+#### Table Result ⤵️
+<img width="2378" height="575" alt="image" src="https://github.com/user-attachments/assets/1e72b857-e067-4956-a551-1343413e628c" />
+
+<br>
+<br>
+
+### ➕➖ Agregate ✖️➗
+wanted to find the max, min, and average for each member and casual on each day of the week
+<img width="797" height="396" alt="image" src="https://github.com/user-attachments/assets/2ecfe553-9885-4caf-95a7-0d7eb55aaae1" />
+<br>
+#### Query Results ⤵️
+<img width="1428" height="607" alt="image" src="https://github.com/user-attachments/assets/07b08c1a-e531-4af3-bffa-aecf74b980b2" />
+
+<br>
+<br>
+
+## Visualize 📊
+Lets now visualize and find the differences between member and casual riders
+
+<br>
+
+### Ride Count Comparison
+1.) Here we see there are more members than Casual riders
+2.) 
+<img width="2050" height="1094" alt="image" src="https://github.com/user-attachments/assets/bd6ec9d6-cc96-45fa-8872-1431f8c84308" />
+
+
+<br>
+
+### Average Ride Duration Comparison
+<img width="2035" height="1089" alt="image" src="https://github.com/user-attachments/assets/830be039-1d91-4945-b330-d65148e9db54" />
+
+---
+
+# Conclusion
+<br>
+This has been the cleaning and prepping of the data using SQL to then push to Microsoft Power BI for visuals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

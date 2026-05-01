@@ -75,6 +75,15 @@ A project focused on increasing usage of bellabeat fitness tech by studying fitb
 
 <br>
 
+## Data Source
+
+Download the FitBit Fitness Tracker dataset from Kaggle:
+https://www.kaggle.com/datasets/arashnic/fitbit
+
+Place the unzipped files in a /data folder in the project root.
+
+<br>
+
 ### Visuals:
 <br>
 
